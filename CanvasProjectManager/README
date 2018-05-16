@@ -1,0 +1,5 @@
+To install, open site.xml in CPM project.  
+
+Build all.  
+
+Copy CPM folder to /var/lib/tomcat/webapps on joe.coe.utah.edu
