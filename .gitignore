@@ -1,5 +1,6 @@
 # Don't put developer key in repository
 DeveloperKey.java
+Secrets.java
 
 # Compiled class file
 *.class
